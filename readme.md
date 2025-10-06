@@ -1,6 +1,6 @@
 # SMARTMINI — README
 
-![SMARTMINI Overview](/mnt/data/a467998a-0d31-4969-8083-13fb0821081d.png)
+![SMARTMINI Overview](/images/smartwatch.png)
 
 ---
 
@@ -320,3 +320,4 @@ This README is authored by the project maintainer (Kritika Sinha). For questions
 *End of README — open the TouchGFX project, follow the steps above screen-by-screen, and reach out if you want sample code for any specific presenter or driver.*
 
  
+
